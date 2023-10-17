@@ -1,8 +1,8 @@
 # My 3D portfolio
 
-> My first portfolio in 3D
-> Made using HTML, CSS, JS & GSAP
-> Check it live [here]()
+> My first portfolio in 3D  
+> Made using HTML, CSS, JS & GSAP  
+> Check it live [here](https://nitin3dportfolio.netlify.app/)
 
 # Tutorial
 
